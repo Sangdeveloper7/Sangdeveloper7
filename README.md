@@ -20,13 +20,16 @@
 
 - 🔭 I'm currently working on: **Spring Boot 기반의 백엔드 시스템 개발**
 - 🌱 I'm currently learning: **CI/CD, Kubernetes, TDD, Clean Architecture**
-- 🏆 Awards: 
-  - 2024 전국 대학생 공모전 **우수상**
-  - 2023 캡스톤디자인 프로젝트 **최우수상**
+- 🏆 Awards & Activities: 
+  - it 협업 동아리 Pard 부파트장 (22.11 ~ 23.3)
+  - 2023 SW페스티벌 캡스톤 프로젝트 **대상**
+  - 2024 선한 영향력 가게 인턴쉽 (24.9 ~ 12)
+  - 2024 대경권 대학생 프로그래밍 경진대회 입상 (장려상)
+  - 한동대학교 SW 교육 봉사단 (23.3 ~ 24.8)
 - 💬 Ask me about: Spring, REST API, DB 설계, 서버 인프라 구축
-- 🧠 Interests: **Cloud Backend**, **Data Engineering**, **DevOps**
+- 🧠 Interests: Backend Development, Spring Framework, Project Planning & System Design, Data Engineering, DevOps
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: oka1313@gmail.com
+- 📫 How to reach me: leesanghyun9757@gmail.com
 
 ---
 
