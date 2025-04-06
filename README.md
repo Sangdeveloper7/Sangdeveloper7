@@ -32,34 +32,32 @@
 
 ### 🛠 Tech Stack
 
+
 #### 🚀 Back-End
 <div>
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/jpa-007396?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-#### 🧪 Dev & Ops
-<div>
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/github actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/amazon aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
 </div>
 
 #### 🧩 Front-End
 <div>
-  <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-#### 📊 Data & Analysis
+#### 🧪 Dev & Ops
 <div>
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+#### 🖥 Language
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 ---
@@ -68,21 +66,19 @@
 <div>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.notion.so/857f05f68e104e23810e67500559be07">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 📚 Studying
-<div>
-  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white" />
-</div>
+### 📒 Blog & Docs
 
----
+- 📝 [Velog](https://velog.io/@l9757/posts)  
+- 📘 [Notion Portfolio](https://www.notion.so/857f05f68e104e23810e67500559be07)
 
 ### 📫 Contact Me
 <div align="center">
