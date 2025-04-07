@@ -88,7 +88,6 @@
   <a href="https://velog.io/@l9757/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="leesanghyun9757@gmail.com">
-    <img src="https://img.shields.io/badge/leesanghyun9757@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[![Gmail Badge](https://img.shields.io/badge/sanghyunlee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanghyunlee@gmail.com)
   </a>
 </div>
