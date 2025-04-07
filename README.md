@@ -85,10 +85,10 @@
 
 ### 📫 Contact Me
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@l9757/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="leesanghyun9757@gmail.com">
+    <img src="https://img.shields.io/badge/leesanghyun9757@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
