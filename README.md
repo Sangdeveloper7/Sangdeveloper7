@@ -51,6 +51,8 @@
 #### 🧩 Front-End
 <div>
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </div>
 
 #### 🧪 Dev & Ops
