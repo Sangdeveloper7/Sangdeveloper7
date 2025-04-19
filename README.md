@@ -86,7 +86,9 @@
 ### 📒 Blog & Docs
 
 - 📝 [Velog](https://velog.io/@l9757/posts)  
-- 📘 [Notion Portfolio](https://www.notion.so/857f05f68e104e23810e67500559be07)
+- 📘 [Notion Portfolio](https://www.notion.so/857f05f68e104e23810e67500559be07)  
+- 👨‍💻 [Baekjoon (BOJ)](https://www.acmicpc.net/user/l9757)  
+- 🧠 [Programmers](https://school.programmers.co.kr/)
 
 ### 📫 Contact Me
 <div align="center">
