@@ -2,7 +2,7 @@
 
 <!-- 타이틀 이미지 (원한다면 변경 가능) -->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello%20World!&fontColor=ffffff&height=200&section=header)
 </div>
 
 <br/>
