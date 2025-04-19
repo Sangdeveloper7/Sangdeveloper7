@@ -78,6 +78,7 @@
   <a href="https://www.notion.so/857f05f68e104e23810e67500559be07">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
