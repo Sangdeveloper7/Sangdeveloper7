@@ -1,8 +1,12 @@
 ## 👋 Hi there, I'm Sang!
 
 <!-- 타이틀 이미지 (원한다면 변경 가능) -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello%20World!&fontColor=ffffff&height=200&section=header)
-
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello%20World!&fontColor=ffffff&height=200&section=header" 
+    alt="header"
+  />
+</div>
 <br/>
 
 <!-- 간단한 자기소개 -->
