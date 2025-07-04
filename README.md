@@ -30,6 +30,7 @@
   - 2024 선한 영향력 가게 인턴쉽 (24.9 ~ 24.12)
   - 2024 대경권 대학생 프로그래밍 경진대회 입상 (장려상)
   - 한동대학교 SW 교육 봉사단 (23.3 ~ 24.8)
+  - 한동대학교 캡스톤 패스티벌 인기상 (25.5.22)
 - 💬 Ask me about: Spring, REST API, DB 설계, 서버 인프라 구축
 - 🧠 Interests: Backend Development, Spring Framework, Project Planning & System Design, Data Engineering, DevOps
 - 😄 Pronouns: He/Him
