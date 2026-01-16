@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Sang!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l9757)](https://solved.ac/l9757/)
-
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/{your_node_id})](https://www.git-ranker.com)
 <!-- 타이틀 이미지 (원한다면 변경 가능) -->
 <div align="center">
   <img 
