@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Sang!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l9757)](https://solved.ac/l9757/)
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/{your_node_id})](https://www.git-ranker.com)
 <!-- 타이틀 이미지 (원한다면 변경 가능) -->
 <div align="center">
   <img 
@@ -10,7 +9,7 @@
   />
 </div>
 <br/>
-
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/{your_node_id})](https://www.git-ranker.com)
 <!-- 간단한 자기소개 -->
 <p align="center">
   👨‍💻 백엔드를 사랑하는 개발자, <strong>이상현</strong>입니다. <br/>
